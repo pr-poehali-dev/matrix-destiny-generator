@@ -1,4 +1,4 @@
-import MatrixCalculator from '@/components/MatrixCalculator';
+import DestinyMatrixCalculator from '@/components/DestinyMatrixCalculator';
 import ContactSection from '@/components/ContactSection';
 import Icon from '@/components/ui/icon';
 
@@ -34,7 +34,7 @@ const Index = () => {
             </p>
           </section>
 
-          <MatrixCalculator />
+          <DestinyMatrixCalculator />
 
           <ContactSection />
         </div>
